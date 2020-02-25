@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+header {
+  margin: 50px;
+  text-align: center;
+}
+.section1 {
+  height: 100px;
+  background-color: lightcoral;
+}
+
+.divider {
+  height: 100px;
+  background-color: gray;
+}
+
+.section2 {
+  height: 100px;
+  background-color: lightblue;
+}
