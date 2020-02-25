@@ -8,8 +8,17 @@ header {
   text-align: center;
 }
 .section1 {
-  height: 100px;
+  height: 250px;
   background-color: lightcoral;
+}
+.textHeader {
+  text-align: left;
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+.text {
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .divider {
